@@ -1,0 +1,340 @@
+Dish Name,Ingredients,Cuisine,Type,Craving Type
+Butter Chicken,"Chicken, Butter, Cream",North Indian,Curry,Rich
+Paneer Tikka,"Paneer, Spices, Yogurt",North Indian,Appetizer,Spicy
+Biryani,"Rice, Meat, Spices",Hyderabadi,Rice,Spicy
+Samosa,"Potato, Flour, Spices",North Indian,Snack,Spicy
+Masala Dosa,"Rice Batter, Potato",South Indian,South Indian,Spicy
+Pav Bhaji,"Vegetables, Butter, Pav Bread",Maharashtrian,Snack,Spicy
+Chole Bhature,"Chickpeas, Flour, Spices",North Indian,Curry,Rich
+Vada Pav,"Potato, Bread Roll, Spices",Maharashtrian,Snack,Spicy
+Rajma Chawal,"Kidney Beans, Rice, Spices",North Indian,Rice,Savory
+Palak Paneer,"Spinach, Paneer, Spices",North Indian,Curry,Savory
+Dal Makhani,"Lentils, Butter, Cream",North Indian,Curry,Rich
+Aloo Paratha,"Potatoes, Wheat Flour, Spices",North Indian,Bread,Savory
+Tandoori Chicken,"Chicken, Yogurt, Spices",North Indian,Appetizer,Spicy
+Naan,"Wheat Flour, Yeast, Yogurt",North Indian,Bread,Rich
+Pani Puri,"Flour, Tamarind, Spices",North Indian,Snack,Spicy
+Kofta,"Meat, Spices, Flour",Mughlai,Curry,Rich
+Fish Curry,"Fish, Coconut, Spices",Goan,Curry,Spicy
+Gajar Ka Halwa,"Carrot, Milk, Sugar",North Indian,Dessert,Sweet
+Rogan Josh,"Mutton, Yogurt, Spices",Kashmiri,Curry,Spicy
+Malai Kofta,"Paneer, Potatoes, Cream",North Indian,Curry,Rich
+Baingan Bharta,"Eggplant, Spices, Tomato",North Indian,Curry,Spicy
+Rasgulla,"Cheese, Sugar Syrup",Bengali,Dessert,Sweet
+Dhokla,"Gram Flour, Yogurt, Spices",Gujarati,Snack,Savory
+Kadhi,"Gram Flour, Yogurt, Spices",Rajasthani,Curry,Savory
+Aloo Gobi,"Potatoes, Cauliflower, Spices",North Indian,Curry,Savory
+Mutton Biryani,"Rice, Mutton, Spices",Hyderabadi,Rice,Spicy
+Sev Puri,"Puffed Rice, Sev, Chutney",Mumbai Street Food,Snack,Spicy
+"Kebabs (Seekh, Shami, Galouti)","Meat, Spices, Onion",Mughlai,Appetizer,Spicy
+Chicken Tikka Masala,"Chicken, Yogurt, Cream",North Indian,Curry,Rich
+Prawn Masala,"Prawns, Tomato, Spices",Goan,Curry,Spicy
+Kheer,"Rice, Milk, Sugar",North Indian,Dessert,Sweet
+Lassi,"Yogurt, Water, Sugar",Punjabi,Beverage,Sweet
+Pesarattu,"Green Gram, Rice, Spices",South Indian,Snack,Spicy
+Appam,"Rice Flour, Coconut, Yeast",South Indian,Bread,Savory
+Hyderabadi Haleem,"Meat, Wheat, Spices",Hyderabadi,Curry,Rich
+Dum Aloo,"Potatoes, Yogurt, Spices",Kashmiri,Curry,Spicy
+Poha,"Flattened Rice, Peanuts, Spices",Maharashtrian,Snack,Spicy
+Upma,"Semolina, Vegetables, Spices",South Indian,Breakfast,Savory
+Jalebi,"Flour, Sugar Syrup, Ghee",North Indian,Dessert,Sweet
+Chana Masala,"Chickpeas, Tomato, Spices",North Indian,Curry,Spicy
+Prawn Biryani,"Rice, Prawns, Spices",South Indian,Rice,Spicy
+Egg Curry,"Eggs, Tomato, Spices",North Indian,Curry,Spicy
+Paneer Bhurji,"Paneer, Tomato, Onion",North Indian,Curry,Savory
+Kachori,"Flour, Lentils, Spices",Rajasthani,Snack,Spicy
+Thepla,"Wheat Flour, Fenugreek, Spices",Gujarati,Bread,Savory
+Chicken Korma,"Chicken, Yogurt, Cashew",Mughlai,Curry,Rich
+Beetroot Halwa,"Beetroot, Milk, Sugar",North Indian,Dessert,Sweet
+Bhatura,"Flour, Yogurt, Oil",North Indian,Bread,Rich
+Mysore Pak,"Gram Flour, Ghee, Sugar",South Indian,Dessert,Sweet
+Murgh Musallam,"Chicken, Spices, Yogurt",Mughlai,Curry,Rich
+Chicken Biryani,"Rice, Chicken, Spices",Hyderabadi,Rice,Spicy
+Mutton Rogan Josh,"Mutton, Yogurt, Spices",Kashmiri,Curry,Spicy
+Paneer Butter Masala,"Paneer, Tomato, Cream",North Indian,Curry,Rich
+Chicken Tandoori,"Chicken, Yogurt, Spices",North Indian,Appetizer,Spicy
+Daal Tadka,"Lentils, Spices, Ghee",North Indian,Curry,Savory
+Mutton Keema,"Minced Mutton, Spices, Peas",Mughlai,Curry,Spicy
+Vegetable Biryani,"Rice, Vegetables, Spices",North Indian,Rice,Savory
+Fish Fry,"Fish, Flour, Spices",South Indian,Appetizer,Spicy
+Kesar Pista Kulfi,"Milk, Saffron, Pistachios",North Indian,Dessert,Sweet
+Kadai Paneer,"Paneer, Capsicum, Tomato",North Indian,Curry,Spicy
+Gulab Jamun,"Milk Solids, Sugar Syrup",North Indian,Dessert,Sweet
+Aloo Tikki,"Potatoes, Peas, Spices",North Indian,Snack,Spicy
+Veg Manchurian,"Vegetables, Flour, Soy Sauce",Indo-Chinese,Appetizer,Spicy
+Chicken Manchurian,"Chicken, Flour, Soy Sauce",Indo-Chinese,Appetizer,Spicy
+Mysore Masala Dosa,"Rice Batter, Potato Filling",South Indian,Bread,Spicy
+Aloo Puri,"Potatoes, Wheat Flour, Spices",North Indian,Snack,Savory
+Methi Malai Murg,"Chicken, Fenugreek, Cream",North Indian,Curry,Rich
+Mushroom Masala,"Mushrooms, Tomato, Spices",North Indian,Curry,Spicy
+Egg Bhurji,"Eggs, Onion, Tomato",North Indian,Breakfast,Spicy
+Sabudana Vada,"Tapioca, Peanuts, Spices",Maharashtrian,Snack,Savory
+Paneer Kathi Roll,"Paneer, Wheat Flour, Spices",North Indian,Snack,Spicy
+Aloo Posto,"Potatoes, Poppy Seeds, Spices",Bengali,Curry,Savory
+Litti Chokha,"Wheat Flour, Roasted Gram Flour, Spices",Bihari,Snack,Spicy
+Patra,"Colocasia Leaves, Gram Flour, Spices",Gujarati,Snack,Savory
+Chicken Bharta,"Shredded Chicken, Spices, Cream",Bengali,Curry,Rich
+Bhindi Masala,"Okra, Tomato, Spices",North Indian,Curry,Spicy
+Rava Idli,"Semolina, Yogurt, Spices",South Indian,Breakfast,Savory
+Kesar Halwa,"Semolina, Milk, Saffron",North Indian,Dessert,Sweet
+Chicken Handi,"Chicken, Tomato, Spices",North Indian,Curry,Spicy
+Dal Fry,"Lentils, Onion, Spices",North Indian,Curry,Savory
+Chicken Lollipop,"Chicken Wings, Flour, Spices",Indo-Chinese,Appetizer,Spicy
+Paneer Tikka Masala,"Paneer, Tomato, Cream",North Indian,Curry,Rich
+Rasgulla,"Milk Solids, Sugar Syrup",Bengali,Dessert,Sweet
+Misal Pav,"Sprouts, Pav Bread, Spices",Maharashtrian,Snack,Spicy
+Chicken 65,"Chicken, Yogurt, Spices",South Indian,Appetizer,Spicy
+Gajar Halwa,"Carrot, Milk, Sugar",North Indian,Dessert,Sweet
+Chole Kulche,"Chickpeas, Kulcha Bread, Spices",North Indian,Snack,Spicy
+Methi Paratha,"Wheat Flour, Fenugreek, Spices",North Indian,Bread,Savory
+Baida Roti,"Eggs, Flour, Spices",Mughlai,Snack,Spicy
+Fish Amritsari,"Fish, Gram Flour, Spices",Punjabi,Appetizer,Spicy
+Chicken Chettinad,"Chicken, Coconut, Spices",Chettinad,Curry,Spicy
+Paneer Bhurji,"Paneer, Tomato, Onion",North Indian,Curry,Savory
+Mutton Cutlet,"Mutton, Bread Crumbs, Spices",North Indian,Appetizer,Spicy
+Chana Dal,"Split Chickpeas, Tomato, Spices",North Indian,Curry,Savory
+Gondh Ladoo,"Edible Gum, Wheat Flour, Ghee",North Indian,Dessert,Sweet
+Chicken Sukka,"Chicken, Coconut, Spices",Mangalorean,Curry,Spicy
+Chana Pulao,"Chickpeas, Rice, Spices",North Indian,Rice,Savory
+Shahi Tukda,"Bread, Milk, Nuts",Mughlai,Dessert,Sweet
+Soya Chaap,"Soy, Flour, Spices",North Indian,Appetizer,Spicy
+Gatte Ka Pulao,"Rice, Gram Flour, Spices",Rajasthani,Rice,Savory
+Veg Pulao,"Rice, Mixed Vegetables, Spices",North Indian,Rice,Savory
+Patra,"Colocasia Leaves, Gram Flour, Spices",Gujarati,Snack,Savory
+Bhindi Fry,"Okra, Flour, Spices",North Indian,Appetizer,Savory
+Prawn Vindaloo,"Prawns, Vinegar, Spices",Goan,Curry,Spicy
+Paneer Pakora,"Paneer, Gram Flour, Spices",North Indian,Snack,Spicy
+Kakori Kebab,"Minced Meat, Spices, Ghee",Mughlai,Appetizer,Spicy
+Amritsari Kulcha,"Flour, Potato, Spices",Punjabi,Bread,Savory
+Mooli Paratha,"Wheat Flour, Radish, Spices",North Indian,Bread,Savory
+Paneer Pasanda,"Paneer, Tomato, Cream",North Indian,Curry,Rich
+Chicken Rezala,"Chicken, Cashew, Yogurt",Bengali,Curry,Rich
+Tamatar Shorba,"Tomatoes, Spices, Herbs",North Indian,Soup,Savory
+Andhra Fish Curry,"Fish, Tamarind, Spices",Andhra,Curry,Spicy
+Chicken Dhansak,"Chicken, Lentils, Spices",Parsi,Curry,Savory
+Shahi Paneer,"Paneer, Cream, Cashew",North Indian,Curry,Rich
+Chole Chaat,"Chickpeas, Onion, Spices",North Indian,Snack,Spicy
+Banana Chips,"Banana, Oil, Salt",Kerala,Snack,Savory
+Aloo Baingan,"Potato, Eggplant, Spices",North Indian,Curry,Savory
+Keema Pav,"Minced Meat, Bread Roll, Spices",Maharashtrian,Snack,Spicy
+Dahi Puri,"Flour Crispies, Yogurt, Chutney",Mumbai Street Food,Snack,Spicy
+Dal Baati Churma,"Lentils, Wheat Balls, Ghee",Rajasthani,Curry,Rich
+Karela Fry,"Bitter Gourd, Spices, Flour",North Indian,Appetizer,Savory
+Chicken Xacuti,"Chicken, Coconut, Spices",Goan,Curry,Spicy
+Bharwa Bhindi,"Okra, Spices, Gram Flour",North Indian,Curry,Savory
+Egg Parantha,"Wheat Flour, Eggs, Spices",North Indian,Bread,Savory
+Kashmiri Pulao,"Rice, Dry Fruits, Saffron",Kashmiri,Rice,Rich
+Kaddu Ki Sabzi,"Pumpkin, Spices, Tomato",North Indian,Curry,Savory
+Bisi Bele Bath,"Rice, Lentils, Spices",South Indian,Rice,Spicy
+Moong Dal Chilla,"Moong Dal, Vegetables, Spices",North Indian,Snack,Savory
+Coconut Ladoo,"Coconut, Milk, Sugar",South Indian,Dessert,Sweet
+Prawn Balchao,"Prawns, Vinegar, Spices",Goan,Curry,Spicy
+Tomato Rice,"Rice, Tomato, Spices",South Indian,Rice,Savory
+Palak Chaat,"Spinach, Gram Flour, Spices",North Indian,Snack,Spicy
+Pithla Bhakri,"Gram Flour, Onion, Spices",Maharashtrian,Curry,Savory
+Chingri Malai Curry,"Prawns, Coconut Milk, Spices",Bengali,Curry,Rich
+Murgh Kalimirch,"Chicken, Black Pepper, Cream",North Indian,Curry,Spicy
+Patra Ni Macchi,"Fish, Coconut, Banana Leaf",Parsi,Appetizer,Savory
+Sambar,"Lentils, Vegetables, Tamarind",South Indian,Curry,Savory
+Prawn Moilee,"Prawns, Coconut Milk, Spices",South Indian,Curry,Rich
+Mathri,"Flour, Spices, Oil",North Indian,Snack,Savory
+Gatta Curry,"Gram Flour, Yogurt, Spices",Rajasthani,Curry,Savory
+Kothimbir Vadi,"Coriander, Gram Flour, Spices",Maharashtrian,Snack,Savory
+Rawa Kesari,"Semolina, Milk, Saffron",South Indian,Dessert,Sweet
+Pomfret Recheado,"Pomfret Fish, Vinegar, Spices",Goan,Curry,Spicy
+Rajasthani Kadhi,"Yogurt, Gram Flour, Spices",Rajasthani,Curry,Savory
+Paneer Pasanda,"Paneer, Cashew, Tomato",North Indian,Curry,Rich
+Upma Kozhukattai,"Rice Flour, Spices, Coconut",South Indian,Snack,Savory
+Paneer Lababdar,"Paneer, Tomato, Cream",North Indian,Curry,Rich
+Prawn Malai Curry,"Prawns, Coconut Milk, Spices",Bengali,Curry,Rich
+Mishti Doi,"Yogurt, Jaggery, Milk",Bengali,Dessert,Sweet
+Nalli Nihari,"Mutton, Flour, Spices",Mughlai,Curry,Rich
+Dahi Ke Kebab,"Yogurt, Bread Crumbs, Spices",North Indian,Appetizer,Savory
+Murg Malai Tikka,"Chicken, Cream, Spices",Mughlai,Appetizer,Rich
+Papdi Chaat,"Flour Crispies, Yogurt, Chutney",North Indian,Snack,Savory
+Rava Ladoo,"Semolina, Ghee, Sugar",South Indian,Dessert,Sweet
+Sindhi Kadhi,"Gram Flour, Vegetables, Spices",Sindhi,Curry,Savory
+Murgh Do Pyaza,"Chicken, Onion, Spices",North Indian,Curry,Spicy
+Nadru Yakhni,"Lotus Stems, Yogurt, Spices",Kashmiri,Curry,Rich
+Kozhi Varutha Curry,"Chicken, Coconut, Spices",Kerala,Curry,Spicy
+Bharwa Karela,"Bitter Gourd, Spices, Gram Flour",North Indian,Curry,Savory
+Bedmi Poori,"Wheat Flour, Urad Dal, Spices",North Indian,Bread,Savory
+Chakli,"Rice Flour, Spices, Ghee",Maharashtrian,Snack,Savory
+Kerala Fish Fry,"Fish, Coconut Oil, Spices",Kerala,Appetizer,Spicy
+Pesarattu Dosa,"Green Gram, Spices, Oil",Andhra,Bread,Spicy
+Thalipeeth,"Mixed Flours, Spices, Onion",Maharashtrian,Bread,Savory
+Prawn Patia,"Prawns, Vinegar, Spices",Parsi,Curry,Spicy
+Bhindi Fry,"Okra, Flour, Spices",North Indian,Appetizer,Savory
+Batata Vada,"Potatoes, Gram Flour, Spices",Maharashtrian,Snack,Spicy
+Paneer Bhurji,"Paneer, Onion, Tomato",North Indian,Curry,Savory
+Dahi Bhalla,"Lentil Balls, Yogurt, Spices",North Indian,Snack,Savory
+Pathrode,"Colocasia Leaves, Rice Flour, Spices",South Indian,Snack,Savory
+Aloo Tamatar Sabzi,"Potatoes, Tomato, Spices",North Indian,Curry,Savory
+Bombil Fry,"Bombay Duck Fish, Flour, Spices",Maharashtrian,Appetizer,Spicy
+Ragi Mudde,"Ragi Flour, Water, Ghee",South Indian,Bread,Savory
+Surti Undhiyu,"Mixed Vegetables, Gram Flour, Spices",Gujarati,Curry,Spicy
+Dimer Devil,"Eggs, Bread Crumbs, Spices",Bengali,Appetizer,Spicy
+Pomfret Fry,"Pomfret Fish, Flour, Spices",Goan,Appetizer,Spicy
+Malabar Parotta,"Flour, Ghee, Egg",Kerala,Bread,Rich
+Khandvi,"Gram Flour, Yogurt, Spices",Gujarati,Snack,Savory
+Methi Malai Paneer,"Paneer, Fenugreek, Cream",North Indian,Curry,Rich
+Machher Paturi,"Fish, Mustard, Banana Leaf",Bengali,Appetizer,Savory
+Tindora Sabzi,"Ivy Gourd, Spices, Onion",North Indian,Curry,Savory
+Paneer Korma,"Paneer, Yogurt, Cashew",North Indian,Curry,Rich
+Chikki,"Peanuts, Jaggery, Ghee",Maharashtrian,Dessert,Sweet
+Sooji Halwa,"Semolina, Ghee, Sugar",North Indian,Dessert,Sweet
+Kuttu Ki Puri,"Buckwheat Flour, Water, Spices",North Indian,Bread,Savory
+Moong Dal Halwa,"Lentils, Milk, Ghee",North Indian,Dessert,Sweet
+Kesari Bath,"Semolina, Saffron, Sugar",South Indian,Dessert,Sweet
+Rasam,"Tamarind, Lentils, Spices",South Indian,Soup,Savory
+Mooli Sabzi,"Radish, Spices, Tomato",North Indian,Curry,Savory
+Kuzhi Paniyaram,"Rice Batter, Onion, Spices",South Indian,Snack,Savory
+Chenna Poda,"Paneer, Semolina, Sugar",Oriya,Dessert,Sweet
+Ghevar,"Flour, Milk, Ghee",Rajasthani,Dessert,Sweet
+Tava Pulao,"Rice, Vegetables, Butter",Mumbai Street Food,Rice,Spicy
+Kharvas,"Colostrum Milk, Sugar, Cardamom",Maharashtrian,Dessert,Sweet
+Sarson Ka Saag,"Mustard Greens, Butter, Spices",Punjabi,Curry,Savory
+Lauki Ki Sabzi,"Bottle Gourd, Spices, Tomato",North Indian,Curry,Savory
+Pesarattu Upma,"Green Gram, Semolina, Spices",South Indian,Breakfast,Savory
+Sundal,"Chickpeas, Coconut, Spices",South Indian,Snack,Savory
+Baida Roti,"Eggs, Flour, Spices",Mughlai,Snack,Spicy
+Chawal Ki Kheer,"Rice, Milk, Sugar",North Indian,Dessert,Sweet
+Amritsari Macchi,"Fish, Gram Flour, Spices",Punjabi,Appetizer,Spicy
+Mutton Kassa,"Mutton, Onion, Spices",Bihari,Curry,Spicy
+Chakuli Pitha,"Rice Flour, Coconut, Sugar",Oriya,Snack,Sweet
+Boti Kebab,"Meat Chunks, Spices, Ghee",Mughlai,Appetizer,Spicy
+Kara Kozhukattai,"Rice Flour, Spices, Coconut",South Indian,Snack,Savory
+Bhindi Sambhariya,"Okra, Spices, Gram Flour",Gujarati,Curry,Savory
+Kalmi Kebab,"Chicken Drumsticks, Spices, Yogurt",Mughlai,Appetizer,Spicy
+Paneer Jalebi,"Paneer, Sugar Syrup, Flour",Bengali,Dessert,Sweet
+Bombil Chutney,"Bombay Duck Fish, Coconut, Spices",Goan,Curry,Spicy
+Khar,"Meat, Raw Papaya, Spices",Assamese,Curry,Savory
+Kharvas,"Colostrum Milk, Sugar, Cardamom",Maharashtrian,Dessert,Sweet
+Murg Rezala,"Chicken, Cashew, Yogurt",Bengali,Curry,Rich
+Ariselu,"Rice Flour, Jaggery, Ghee",Andhra,Dessert,Sweet
+Chikki,"Peanuts, Jaggery, Ghee",Maharashtrian,Dessert,Sweet
+Chana Sundal,"Chickpeas, Coconut, Spices",South Indian,Snack,Savory
+Kozhi Curry,"Chicken, Coconut, Spices",Kerala,Curry,Spicy
+Prawn Chettinad,"Prawns, Coconut, Spices",Chettinad,Curry,Spicy
+Prawn Pepper Fry,"Prawns, Black Pepper, Spices",South Indian,Appetizer,Spicy
+Gulgula,"Wheat Flour, Jaggery, Oil",Bihari,Snack,Sweet
+Gajar Halwa Laddoo,"Carrot, Milk, Sugar",North Indian,Dessert,Sweet
+Rassa,"Meat, Onion, Spices",Kolhapuri,Curry,Spicy
+Amboli,"Rice Flour, Coconut, Spices",Maharashtrian,Bread,Savory
+Puliyodarai,"Rice, Tamarind, Spices",South Indian,Rice,Savory
+Mathura Ke Pede,"Milk, Sugar, Cardamom",North Indian,Dessert,Sweet
+Khaman,"Gram Flour, Yogurt, Spices",Gujarati,Snack,Savory
+Khichdi,"Rice, Lentils, Spices",North Indian,Rice,Savory
+Koraishutir Kochuri,"Green Peas, Flour, Spices",Bengali,Snack,Spicy
+Lamb Chops,"Lamb, Spices, Ghee",North Indian,Appetizer,Spicy
+Khapse,"Flour, Sugar, Oil",North Eastern,Snack,Sweet
+Bhutte Ka Kees,"Corn, Milk, Spices",Madhya Pradesh,Snack,Savory
+Dhungar Paneer,"Paneer, Charcoal, Spices",North Indian,Curry,Rich
+Chicken Kolhapuri,"Chicken, Coconut, Spices",Maharashtrian,Curry,Spicy
+Chana Puri,"Chickpeas, Flour, Spices",North Indian,Snack,Spicy
+Badam Katli,"Almonds, Sugar, Ghee",North Indian,Dessert,Sweet
+Chane Ka Saag,"Chickpea Leaves, Spices",North Indian,Curry,Savory
+Pathare Prabhu Kheema,"Minced Meat, Spices",Maharashtrian,Curry,Spicy
+Doodhpak,"Milk, Rice, Sugar",Gujarati,Dessert,Sweet
+Sheer Khurma,"Milk, Vermicelli, Dates",Mughlai,Dessert,Sweet
+Khubani Ka Meetha,"Apricot, Sugar, Almonds",Hyderabadi,Dessert,Sweet
+Parwal Ki Mithai,"Pointed Gourd, Khoya, Sugar",Bihari,Dessert,Sweet
+Chicken Malwani,"Chicken, Coconut, Spices",Malwani,Curry,Spicy
+Gavran Kombdi,"Country Chicken, Spices",Maharashtrian,Curry,Spicy
+Shalgam Gosht,"Turnip, Mutton, Spices",Punjabi,Curry,Spicy
+Salli Boti,"Mutton, Potatoes, Spices",Parsi,Curry,Spicy
+Thukpa,"Noodles, Meat, Vegetables",Tibetan,Soup,Spicy
+Patra Ni Machi,"Fish, Coconut, Banana Leaf",Parsi,Appetizer,Savory
+Chana Dal Tikki,"Chana Dal, Spices, Bread Crumbs",North Indian,Snack,Savory
+Patra,"Colocasia Leaves, Gram Flour, Spices",Gujarati,Snack,Savory
+Gosht Nihari,"Beef, Spices, Flour",Mughlai,Curry,Rich
+Malai Ghewar,"Flour, Milk, Sugar Syrup",Rajasthani,Dessert,Sweet
+Dabeli,"Pav Bread, Masala Peanuts, Potato",Gujarati,Snack,Spicy
+Nimona,"Green Peas, Potatoes, Spices",Bihari,Curry,Savory
+Chicken Baida Roti,"Chicken, Eggs, Flour",Mughlai,Snack,Spicy
+Rogan Gosh,"Mutton, Yogurt, Spices",Kashmiri,Curry,Spicy
+Kothu Parotta,"Parotta Bread, Egg, Meat",Tamil Nadu,Snack,Spicy
+Karela Chips,"Bitter Gourd, Spices, Flour",South Indian,Snack,Savory
+Sindhi Sai Bhaji,"Spinach, Dal, Vegetables",Sindhi,Curry,Savory
+Banana Bonda,"Banana, Flour, Spices",South Indian,Snack,Sweet
+Pineapple Pachadi,"Pineapple, Coconut, Spices",Kerala,Curry,Sweet
+Chingri Malaikari,"Prawns, Coconut Milk, Spices",Bengali,Curry,Rich
+Stuffed Kulcha,"Wheat Flour, Potatoes, Spices",Punjabi,Bread,Savory
+Tandoori Prawns,"Prawns, Yogurt, Spices",Punjabi,Appetizer,Spicy
+Ambur Biryani,"Rice, Meat, Spices",Tamil Nadu,Rice,Spicy
+Mutton Yakhni,"Mutton, Yogurt, Spices",Kashmiri,Curry,Rich
+Keema Kaleji,"Minced Meat, Liver, Spices",Hyderabadi,Curry,Spicy
+Prawn Ghassi,"Prawns, Coconut, Spices",Mangalorean,Curry,Spicy
+Vegetable Hakka Noodles,"Noodles, Vegetables, Soy Sauce",Indo-Chinese,Appetizer,Spicy
+Paneer Bhurani,"Paneer, Yogurt, Spices",North Indian,Curry,Rich
+Bhutte Ka Sheera,"Corn, Milk, Sugar",Maharashtrian,Dessert,Sweet
+Gosht Do Pyaza,"Mutton, Onion, Spices",Mughlai,Curry,Spicy
+Carrot Halwa Barfi,"Carrot, Milk, Sugar",North Indian,Dessert,Sweet
+Mutton Chukka,"Mutton, Pepper, Spices",Chettinad,Curry,Spicy
+Nolen Gurer Payesh,"Rice, Date Palm Jaggery, Milk",Bengali,Dessert,Sweet
+Rajma Galouti Kebab,"Kidney Beans, Spices, Onion",North Indian,Appetizer,Spicy
+Shukto,"Bitter Gourd, Vegetables, Mustard",Bengali,Curry,Savory
+Chenna Gaja,"Paneer, Semolina, Sugar Syrup",Oriya,Dessert,Sweet
+Dry Fruit Shrikhand,"Yogurt, Sugar, Dry Fruits",Gujarati,Dessert,Sweet
+Prawn Ularthiyathu,"Prawns, Onion, Spices",Kerala,Curry,Spicy
+Dhuska,"Rice Flour, Chana Dal, Spices",Jharkhand,Snack,Savory
+Upkari,"Vegetables, Coconut, Spices",Konkani,Curry,Savory
+Sabudana Thalipeeth,"Tapioca, Peanuts, Spices",Maharashtrian,Bread,Savory
+Kanjeevaram Idli,"Rice, Lentils, Spices",Tamil Nadu,Snack,Savory
+Sambal Goreng,"Tempeh, Spices, Coconut Milk",Indonesian,Curry,Spicy
+Chura Matar,"Flattened Rice, Green Peas, Spices",Bihari,Snack,Savory
+Saoji Chicken,"Chicken, Spicy Masala, Onion",Nagpur,Curry,Spicy
+Paya Soup,"Goat Leg, Spices, Onion",Hyderabadi,Soup,Savory
+Tel Pitha,"Rice Flour, Jaggery, Ghee",Assamese,Snack,Sweet
+Jackfruit Seed Curry,"Jackfruit Seeds, Coconut, Spices",South Indian,Curry,Savory
+Phool Gobi Mussallam,"Cauliflower, Yogurt, Spices",Mughlai,Curry,Rich
+Fish Curry Rice,"Fish, Rice, Spices",Goan,Rice,Spicy
+Pappu Pulusu,"Lentils, Tamarind, Vegetables",Andhra,Curry,Savory
+Puliyogare,"Rice, Tamarind, Peanuts",South Indian,Rice,Savory
+Set Dosa,"Rice Batter, Curd, Oil",South Indian,Bread,Savory
+Neer Dosa,"Rice Flour, Water, Oil",South Indian,Bread,Savory
+Avial,"Mixed Vegetables, Coconut, Curd",Kerala,Curry,Savory
+Mutton Sukka,"Mutton, Coconut, Spices",Chettinad,Curry,Spicy
+Udupi Sambar,"Lentils, Vegetables, Tamarind",Karnataka,Curry,Savory
+Pesarattu,"Green Gram, Ginger, Spices",Andhra,Snack,Spicy
+Ragi Idli,"Ragi Flour, Urad Dal, Water",South Indian,Snack,Savory
+Godhi Huggi,"Wheat, Jaggery, Coconut",Karnataka,Dessert,Sweet
+Kozhukattai,"Rice Flour, Coconut, Jaggery",Tamil Nadu,Snack,Sweet
+Chicken Chettinad,"Chicken, Black Pepper, Coconut",Chettinad,Curry,Spicy
+Neychoru,"Rice, Ghee, Spices",Kerala,Rice,Rich
+Sakkarai Pongal,"Rice, Jaggery, Ghee",Tamil Nadu,Dessert,Sweet
+Chettinad Pepper Chicken,"Chicken, Black Pepper, Curry Leaves",Chettinad,Curry,Spicy
+Vellai Paniyaram,"Rice Flour, Coconut, Oil",Tamil Nadu,Snack,Savory
+Kappa Vevichathu,"Tapioca, Coconut, Turmeric",Kerala,Curry,Savory
+Erachi Ularthiyathu,"Beef, Coconut, Spices",Kerala,Curry,Spicy
+Madurai Jigarthanda,"Milk, Almond, Sugar",Tamil Nadu,Beverage,Sweet
+Mysore Bonda,"Flour, Curd, Spices",Karnataka,Snack,Savory
+Gongura Pachadi,"Roselle Leaves, Red Chilies, Tamarind",Andhra,Curry,Spicy
+Chakka Varatti,"Jackfruit, Jaggery, Ghee",Kerala,Dessert,Sweet
+Elaneer Payasam,"Tender Coconut, Milk, Sugar",Kerala,Dessert,Sweet
+Keerai Kootu,"Spinach, Lentils, Coconut",Tamil Nadu,Curry,Savory
+Vada Curry,"Chana Dal Vada, Spices, Coconut",Tamil Nadu,Curry,Spicy
+Arachu Vitta Sambar,"Lentils, Vegetables, Tamarind",Tamil Nadu,Curry,Savory
+Gutti Vankaya,"Brinjal, Peanuts, Tamarind",Andhra,Curry,Spicy
+Kollu Rasam,"Horse Gram, Tamarind, Spices",Tamil Nadu,Soup,Savory
+Chow Chow Kootu,"Chayote Squash, Lentils, Coconut",Tamil Nadu,Curry,Savory
+Chakkara Pongal,"Rice, Jaggery, Ghee",Tamil Nadu,Dessert,Sweet
+Andhra Mutton Curry,"Mutton, Curry Leaves, Spices",Andhra,Curry,Spicy
+Vazhaipoo Vadai,"Banana Flower, Chana Dal, Spices",Tamil Nadu,Snack,Savory
+Thengai Paal,"Coconut Milk, Jaggery, Cardamom",Tamil Nadu,Dessert,Sweet
+Ulli Theeyal,"Shallots, Tamarind, Coconut",Kerala,Curry,Savory
+Goli Baje,"Flour, Curd, Spices",Karnataka,Snack,Savory
+Chegodilu,"Rice Flour, Spices, Oil",Andhra,Snack,Savory
+Kootu Curry,"Vegetables, Coconut, Black Pepper",Kerala,Curry,Savory
+Mutton Keema Biryani,"Rice, Mutton Mince, Spices",Andhra,Rice,Spicy
+Pineapple Pulissery,"Pineapple, Yogurt, Coconut",Kerala,Curry,Sweet
+Kozhi Pidi,"Chicken, Rice Dumplings, Coconut",Kerala,Curry,Spicy
+Paruppu Urundai Kuzhambu,"Lentil Dumplings, Tamarind, Spices",Tamil Nadu,Curry,Savory
+Prawn Ularthiyathu,"Prawns, Onion, Spices",Kerala,Curry,Spicy
+Keema Dosa,"Minced Meat, Rice Batter, Spices",Andhra,Snack,Spicy
+Sundakkai Vathal Kuzhambu,"Turkey Berry, Tamarind, Spices",Tamil Nadu,Curry,Spicy
+Malabar Chemmeen Biryani,"Rice, Prawns, Spices",Kerala,Rice,Spicy
+Ambur Mutton Biryani,"Rice, Mutton, Spices",Tamil Nadu,Rice,Spicy
+Bisi Bele Bath,"Rice, Lentils, Tamarind",Karnataka,Rice,Spicy
+Pachadi,"Cucumber, Coconut, Yogurt",Kerala,Curry,Savory
+Pathiri,"Rice Flour, Coconut, Water",Kerala,Bread,Savory
