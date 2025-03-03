@@ -30,7 +30,7 @@ The Craving-Based Food Recommendation System is an AI-powered application that s
   ```
 
 ## Dataset
-The dataset consists of 300+ dishes with the following columns:
+The dataset is generated using prompt engineering techniques and consists of 300+ dishes with the following columns:
 - **Dish Name**: Name of the dish
 - **Ingredients**: List of ingredients used
 - **Cuisine**: Cuisine type (e.g., North Indian, South Indian, etc.)
